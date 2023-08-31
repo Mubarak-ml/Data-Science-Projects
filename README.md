@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mubarak Abdulkadir
-- 👀 I’m interested in python, Django framework, tensorFlow, Python for Machine Learning
-- 🌱 I’m currently learning Git, Machine Learning, Data Science, Web development.
-- 💞️ I’m looking to collaborate on Django project, Machine learning
+- 👀 I’m interested in Python, R, Data Science, Machine Learning, Deep Learning, Data Analytics, and Django
+- 🌱 I’m currently learning Git, Machine Learning, Data Science, Data analytics.
+- 💞️ I’m looking to collaborate on Data Science, Machine learning, Deep Learning, and Data analytics projects, 
 - 📫 You can reach @ m.abdulkadir@uduth.org.ng
 
 <!---
